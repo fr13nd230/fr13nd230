@@ -11,7 +11,8 @@ So as i said, i am a full stack web application developer but i have a good expe
 *   🚀  I'm currently working on [Web scraping API's](http://crypto-scraper-ndue-onrender.com)
 *   🧠  I'm learning About the front end more.
 *   🤝  I'm open to collaborating on Developing APIs, web crawling and npm packages building.
-*   ⚡  There is one rule in programming world, if its work don't touch it.### Skills 
+*   ⚡  There is one rule in programming world, if its work don't touch it.
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -34,15 +35,15 @@ So as i said, i am a full stack web application developer but i have a good expe
                                 
 <p align="left">
                           
-<a href="https://discord.com/users/fr13nd230#0502" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://discord.com/users/fr13nd230#0502" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> Discord </a>
                           
-<a href="https://www.facebook.com/fr13nd230" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+<a href="https://www.facebook.com/fr13nd230" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> Facebook </a>
                           
-<a href="https://www.github.com/fr13nd230" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/fr13nd230" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> Github </a>
                           
-<a href="http://www.instagram.com/fr13nd230" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/fr13nd230" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> Instagram </a>
                           
-<a href="https://www.stackoverflow.com/users/20234240/fr13nd230" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+<a href="https://www.stackoverflow.com/users/20234240/fr13nd230" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> Stackoverflow </a>
 </p>
 
 <b>My GitHub Stats</b> <br>
