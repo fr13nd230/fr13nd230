@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is KADDOUR Abderrahmane.
 =============================================================================================================================================
 
-Full stack web applications developer.
+Backend applications developer | Offensive security expert.
 --------------------------------------
 
-So as i said, i am a full stack web application developer but i have a good experience in such other fields such as machine learning and cybersecurity, now i am focusing on the back end development part and aiming to gain more experience in machine learning field.
+So as i said, i am a backend application developer as i am an offensive security expert, now i am focusing on the building pckages side and also how to constract beautiful optimized API's as i am ambisious and always excited to learn something new.
 
 *   🌍  I'm based in Tiaret, Algeria.
 *   ✉️  You can contact me at [darkvally4@gmail.com](mailto:darkvally4@gmail.com)
@@ -12,6 +12,7 @@ So as i said, i am a full stack web application developer but i have a good expe
 *   🧠  I'm learning About the front end more.
 *   🤝  I'm open to collaborating on Developing APIs, web crawling and npm packages building.
 *   ⚡  There is one rule in programming world, if its work don't touch it.
+
 ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
