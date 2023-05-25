@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend applications developer | Offensive security expert.
 --------------------------------------
 
-So as i said, i am a backend application developer as i am an offensive security expert, now i am focusing on the building pckages side and also how to constract beautiful optimized API's as i am ambisious and always excited to learn something new.
+So as i said, i am a backend application developer as i am an offensive security expert, now i am focusing on the building packages from a side and also how to constract beautiful optimized API's as i am ambisious and always excited to learn something new.
 
 *   🌍  I'm based in Tiaret, Algeria.
 *   ✉️  You can contact me at [darkvally4@gmail.com](mailto:darkvally4@gmail.com)
-*   🚀  I'm currently working on [Web scraping API's](http://crypto-scraper-ndue.onrender.com)
-*   🧠  I'm learning About the front end more.
+*   🚀  I'm currently working on API's and security tools.
+*   🧠  I'm learning About the frontend more.
 *   🤝  I'm open to collaborating on Developing APIs, web crawling and npm packages building.
 *   ⚡  There is one rule in programming world, if its work don't touch it.
 
