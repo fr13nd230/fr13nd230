@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is KADDOUR Abderrahmane.
 =============================================================================================================================================
 
-Backend applications developer | Offensive security expert.
---------------------------------------
+Software Engineer | Penetration Testing Engineer
+-------------------------------------------------
 
-So as i said, i am a backend application developer as i am an offensive security expert, now i am focusing on the building packages from a side and also how to constract beautiful optimized API's as i am ambisious and always excited to learn something new.
+So as i said, i am a software egnineer  as i am a penetration testing engineer , now i am focusing on the building of packages | microservices | API from a side and i am ambisious and always excited to learn something new like trying to get into front-end more.
 
 *   🌍  I'm based in Tiaret, Algeria.
 *   ✉️  You can contact me at [darkvally4@gmail.com](mailto:darkvally4@gmail.com)
