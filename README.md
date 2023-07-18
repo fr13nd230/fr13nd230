@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **more into front-end and microservices**
 
-- 👯 I’m looking to collaborate on **building `npm` packages**
+- 👯 I’m looking to collaborate on **building npm packages**
 
 - 🤝 I’m looking for help with **front-end projects**
 
