@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abderrahmane KADDOUR</h1>
-<h3 align="center">A Software Engineer From Algeria</h3>
+<h3 align="center">A Backend Developer From Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fr13nd230&label=Profile%20views&color=0e75b6&style=flat" alt="fr13nd230" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **building RESTFUL API's**
 
-- 🌱 I’m currently learning **more into front-end and microservices**
+- 🌱 I’m currently learning **more into devops and microservices**
 
 - 👯 I’m looking to collaborate on **building npm packages**
 
-- 🤝 I’m looking for help with **front-end projects**
+- 🤝 I’m looking for help with **devops projects**
 
 - 💬 Ask me about **nodejs, expressjs, mongoosejs, nextjs, apis**
 
