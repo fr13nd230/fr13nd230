@@ -108,8 +108,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/fr13nd230/fr13nd230/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
