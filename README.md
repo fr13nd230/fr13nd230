@@ -70,12 +70,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=fr13nd230&theme=github-compact"/>
 
+<div align="center" style="width: 100%;"><img src="https://media1.tenor.com/m/sLZzEaG3g5QAAAAC/sword-of-the-stranger-nanashi.gif" alt="Hiyaa!" style="width: 800px; height: 400px;"/></div>
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fr13nd230&show_icons=true&locale=en" alt="fr13nd230" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fr13nd230&" alt="fr13nd230" /></p>
-
-<br>
-
-<div style="width: 100%;"><img align="center" src="https://media1.tenor.com/m/sLZzEaG3g5QAAAAC/sword-of-the-stranger-nanashi.gif" alt="Hiyaa!" style="width: 100%; height: auto;"/></div>
 
