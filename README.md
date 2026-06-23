@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **backend engineering**
 - 👯 I’m looking to collaborate on **systems programming**
-- 🌱 I’m currently learning **svarious thing really**
+- 🌱 I’m currently learning **various thing really**
 
 - 📫 How to reach me **abderrahmane.kaddour.work@gmail.com**
 - ⚡ Fun fact **I ... I am friendly!**
