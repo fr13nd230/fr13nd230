@@ -1,9 +1,9 @@
- <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Abderrahmane KADDOUR</h1>
 <h3 align="center">A software engineer from Algeria!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fr13nd230&label=Profile%20views&color=0e75b6&style=flat" alt="fr13nd230" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fr13nd230&theme=onedark" alt="fr13nd230" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=fr13nd230&theme=dark" alt="fr13nd230" /></a> </p>
 
 - 🔭 I’m currently working on **backend engineering**
 - 👯 I’m looking to collaborate on **systems programming**
